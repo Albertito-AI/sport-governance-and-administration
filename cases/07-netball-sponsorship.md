@@ -41,4 +41,4 @@ Record which part of the first decision you would reopen, who must be told and w
 
 </details>
 
-[Chapter instrument T07](../tools/T07_sponsorship_rights_and_fulfilment.xlsx) · [Case directory](README.md) · [Book](https://doi.org/10.5281/zenodo.24519213)
+[Chapter instrument T07](../tools/T07_sponsorship_rights_and_fulfilment.xlsx) · [Case directory](README.md) · [Book](https://doi.org/10.5281/zenodo.24519212)

@@ -41,4 +41,4 @@ Record which part of the first decision you would reopen, who must be told and w
 
 </details>
 
-[Chapter instrument T06](../tools/T06_league_distribution_and_media_settlement.xlsx) · [Case directory](README.md) · [Book](https://doi.org/10.5281/zenodo.24519213)
+[Chapter instrument T06](../tools/T06_league_distribution_and_media_settlement.xlsx) · [Case directory](README.md) · [Book](https://doi.org/10.5281/zenodo.24519212)

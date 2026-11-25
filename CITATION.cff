@@ -15,6 +15,9 @@ preferred-citation:
     - family-names: "Tan"
       given-names: "Sin Hon Albert"
       orcid: "https://orcid.org/0009-0001-8996-7933"
-  doi: "10.5281/zenodo.24519213"
+  doi: "10.5281/zenodo.24520457"
+  publisher:
+    name: "Tan Sin Hon Albert"
+  edition: "Corrected digital edition, version 1.1"
   year: 2026
-  url: "https://doi.org/10.5281/zenodo.24519213"
+  url: "https://doi.org/10.5281/zenodo.24520457"

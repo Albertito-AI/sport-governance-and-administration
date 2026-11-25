@@ -42,4 +42,4 @@ Record which part of the first decision you would reopen, who must be told and w
 
 </details>
 
-[Chapter instrument T01](../tools/T01_scheme_of_delegation.xlsx) · [Case directory](README.md) · [Book](https://doi.org/10.5281/zenodo.24519213)
+[Chapter instrument T01](../tools/T01_scheme_of_delegation.xlsx) · [Case directory](README.md) · [Book](https://doi.org/10.5281/zenodo.24519212)

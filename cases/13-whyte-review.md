@@ -42,4 +42,4 @@ Record which part of the first decision you would reopen, who must be told and w
 
 </details>
 
-[Chapter instrument T13](../tools/T13_safeguarding_and_integrity_triage.docx) · [Case directory](README.md) · [Book](https://doi.org/10.5281/zenodo.24519213)
+[Chapter instrument T13](../tools/T13_safeguarding_and_integrity_triage.docx) · [Case directory](README.md) · [Book](https://doi.org/10.5281/zenodo.24519212)

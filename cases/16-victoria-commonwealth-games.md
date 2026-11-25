@@ -41,4 +41,4 @@ Record which part of the first decision you would reopen, who must be told and w
 
 </details>
 
-[Chapter instrument T16](../tools/T16_season_review_and_next_year_allocation.xlsx) · [Case directory](README.md) · [Book](https://doi.org/10.5281/zenodo.24519213)
+[Chapter instrument T16](../tools/T16_season_review_and_next_year_allocation.xlsx) · [Case directory](README.md) · [Book](https://doi.org/10.5281/zenodo.24519212)
