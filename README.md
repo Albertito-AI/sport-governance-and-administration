@@ -2,7 +2,9 @@
 
 Albert Tan · Corrected digital edition 1.1 · 25 November 2026
 
-[Read the book on Zenodo](https://doi.org/10.5281/zenodo.24520457) · [Author’s teaching page](https://alberttansinhon.com/sport-governance/) · [ORCID](https://orcid.org/0009-0001-8996-7933)
+PDF ISBN: **9789819487318**
+
+[Download the PDF](https://github.com/Albertito-AI/sport-governance-and-administration/releases/download/v1.1.0/Sport_Governance_and_Administration.pdf) · [Cite this edition on Zenodo](https://doi.org/10.5281/zenodo.24520457) · [Author’s teaching page](https://alberttansinhon.com/sport-governance/) · [ORCID](https://orcid.org/0009-0001-8996-7933)
 
 A federation can approve an event while the clinician withholds clearance, the sponsor refuses a revised programme and a club cannot get its players home. The administrator has to establish which decisions can stand, what must change and who answers to the people affected. This textbook and companion bring those responsibilities into the same room.
 

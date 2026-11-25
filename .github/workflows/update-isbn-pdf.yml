@@ -1,0 +1,51 @@
+name: Update approved book PDF
+
+on:
+  push:
+    branches: [main]
+    paths: [.github/workflows/update-isbn-pdf.yml]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-approved-book-pdf
+  cancel-in-progress: false
+
+jobs:
+  replace-pdf:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Retrieve and verify the ISBN-bearing PDF
+        env:
+          PDF_URL: https://alberttansinhon.com/writings/sport-governance-and-administration/Sport_Governance_and_Administration.pdf
+        run: |
+          set -euo pipefail
+          curl --fail --location --retry 3 --connect-timeout 20 --max-time 180 "$PDF_URL" --output Sport_Governance_and_Administration.pdf
+          printf '%s  %s\n' '05521e98474d9708b1a5468921cc05976eb8104e674b58add401f8ef15339343' 'Sport_Governance_and_Administration.pdf' | sha256sum --check
+
+      - name: Replace only the existing release PDF and record its ISBN
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          gh release upload v1.1.0 Sport_Governance_and_Administration.pdf --clobber --repo "$GITHUB_REPOSITORY"
+          gh release view v1.1.0 --repo "$GITHUB_REPOSITORY" --json body --jq .body > release-notes.md
+          python3 - <<'PY'
+          from pathlib import Path
+          notes = Path('release-notes.md')
+          text = notes.read_text()
+          if '9789819487318' not in text:
+              notes.write_text(text.rstrip() + '\n\nPDF ISBN: 9789819487318.\n')
+          PY
+          gh release edit v1.1.0 --repo "$GITHUB_REPOSITORY" --notes-file release-notes.md
+
+      - name: Verify the uploaded release PDF
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          mkdir verified-release
+          gh release download v1.1.0 --repo "$GITHUB_REPOSITORY" --pattern Sport_Governance_and_Administration.pdf --dir verified-release
+          printf '%s  %s\n' '05521e98474d9708b1a5468921cc05976eb8104e674b58add401f8ef15339343' 'verified-release/Sport_Governance_and_Administration.pdf' | sha256sum --check
