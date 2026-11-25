@@ -1,0 +1,67 @@
+# Deploying AI agents in a sport organisation
+
+## What an agent can take off a secretary’s desk
+
+At four on a Thursday, a ground closes and a junior fixture has to move. The league secretary can usually find another pitch. What takes the evening is discovering whether the substitute has step-free changing rooms, whether the match officials can travel and whether an apparently empty slot already belongs to a school. An AI agent earns a place in that office if it can assemble these answers, show where each came from and leave the secretary time to speak to the clubs whose weekend is about to change.
+
+A classifier can put the closure notice into the fixtures queue. An agent can pursue a modest objective through several authorised steps. It might read the booking register, retrieve the competition rules, request availability from the approved officers and place a provisional hold on an internal calendar. Each added power changes who or what can be affected by an error. A club should commission a service in terms its volunteers can explain, down to which diary it may write to and who can release a hold. The fixture pilot below is a fictional proposal for City Women’s League. Its figures illustrate how a real organisation could decide whether to invest.
+
+## What the Olympic experience establishes
+
+The IOC’s Olympic AI Agenda, launched in April 2024, connected efficient administration with access to sporting opportunity. At Paris 2024 its online-abuse protection service analysed 2.4 million posts and comments, flagged more than 152,000 for possible abuse and verified more than 10,200 for referral to the platforms. The IOC reported that 353 athletes and officials were directly targeted. For an administrator budgeting such a service, the revealing distance is between the number of items the system surfaced and the smaller number that warranted action. The figures describe the workload and subsequent referrals. Estimating how much abuse escaped detection would require examining a sample of material left outside that queue.
+
+Paris provides evidence about AI-assisted screening within an organised safeguarding response. It also gives a purchasing committee a practical question about any proposed agent. Who is funded to act on what the system discovers? The IOC’s Trustworthy AI Framework of 28 September 2026 offers seven principles and an accompanying checklist for examining such arrangements. A league that uses the checklist can take its answers into procurement, attaching an owner and evidence to each safeguard. A club committee can use the same exercise to uncover just how much of the promised service still depends on one unpaid officer answering a phone.
+
+## Put decision rights into the operating agreement
+
+In City Women’s League, the proposed delegation would let an agent create a holding entry that expires after ninety minutes. Only the competition director could authorise a new fixture, and the venue operator would retain control over whether the ground could open. A regional association would decide any clash involving a competition it administers. Where a national or international rule reserves a change of qualifying date or venue to the rule-maker, the secretary would seek a written ruling before publication. The service charter would name the relevant authority for each competition and provide a telephone contact for an imminent deadline.
+
+The temptation is to give the national body a copy of everything because it owns the platform. A better bargain for affiliated clubs is to specify the records each level needs. The league can use a venue’s verified accessibility features and a team’s latest feasible arrival time without holding a player’s medical record or work schedule. A club officer can convey an accommodation privately to its decision-maker. An athlete challenging an unsuitable change should reach a named person by telephone or email, receive the reasons and obtain reconsideration by someone uninvolved in the first decision. Publish the review deadline alongside the fixture and say whether the original arrangement survives while the challenge is heard.
+
+## Buy the right to inspect, correct and leave
+
+Before scoring bids, give each supplier the same exercise. Two clubs share an abbreviated name, an accessibility record has expired and one message refers to a superseded competition circular. Ask the supplier to work through the case with the person who runs fixtures, then export the records needed to reconstruct what happened. Score the evidence it retrieved, whether it recognised the uncertainty and how easily a club officer could reverse a mistaken hold. Price the operator’s training, the time spent maintaining venue records, support during evening fixtures and the cost of moving to another service.
+
+Contract for the service the winning supplier demonstrated. Specify the permitted systems and recipients, the purpose and retention of records, any proposed use of club material for training, notice of product or subcontractor changes, and the right to retrieve records in an agreed format. Give the league a way to suspend calendar updates while leaving staff access to the manual fixture list. During acceptance testing, a club secretary should be able to restore its bookings from an export, reach a responsible person outside office hours and reconcile a correction with the message previously sent to families.
+
+## Run one competition through three stages
+
+For the first fortnight the six clubs and the league secretary map a change from first notice to the last acknowledgement. Record time spent by visiting teams, match officials and the administrator who handles corrections. Invite a player with irregular paid work, a para-athlete representative and the smallest club to identify constraints missing from the booking form. Offer an honorarium and a telephone contribution. Record which suggested conditions enter the specification, who rejected the others and when those decisions can be revisited.
+
+In weeks three and four, replay forty anonymised fixture changes against the records and rules actually available on the day of each change. Reserve twenty cases for a final test that the supplier cannot inspect in advance. Include a double booking, an unconfirmed accessible changing room, a missing acknowledgement and a change of venue after notices were issued. Two experienced officers independently mark acceptable outcomes and cite the applicable rule. Have a third resolve disagreements, retaining any genuine choice between two lawful and workable fixtures.
+
+For the next four weeks let the agent prepare options beside the normal service. The duty officer checks each option against its sources and records the acceptances, amendments and refusals. After a favourable review, enable the expiring internal hold on one competition only. An officer still approves the recipient list and public notice. If two requests arrive together for the same space, the booking system must refuse the second hold and return it to a person. Each morning the secretary reconciles outstanding holds, confirmations and unanswered messages against the calendar the clubs actually use.
+
+## Measure what improved and for whom
+
+The US National Institute of Standards and Technology’s AI Risk Management Framework calls for repeatable assessment and independent review. In a league this can start with choosing the measures before seeing the supplier’s results. Compare the existing process, a simple rule-based diary check and the proposed agent on the held-back cases. Give reviewers the same source packet, conceal the origin of each proposed outcome where practicable and capture the rule edition, software version, permissions and date of the run. Another league officer should be able to repeat the exercise and examine differences. For each route publish the number tested, the share of usable first proposals, material omissions, elapsed time to a confirmed notice, and staff minutes including verification and corrections.
+
+A worked example shows how easily a saving can change character on its way to the board. Suppose thirty comparable changes a month each take 52 staff minutes by the existing route and 36 with the agent, including checks and corrections. Eight hours have been released. If routine maintenance takes another two hours, the monthly gain is six. At an illustrative £24 per hour, that time is worth £144 against a £65 monthly service fee, leaving £79 before training and other costs. Cash falls only where the club actually avoids expenditure. A volunteer treasurer might attach greater value to getting a Tuesday evening back or to calling clubs whose access requests have gone unanswered.
+
+Agree a decision rule in advance. In this pilot the board requires at least twenty per cent lower median staff time and a first-proposal acceptance rate at least as high as the existing process on the held-back cases, followed by a live check of both measures. Report the underlying counts by home and away club, rural travel and access requirements. If few such cases occurred, extend observation and ask affected athletes about what the records missed. An average gain bought by making the smallest clubs telephone three times is grounds for redesign.
+
+## Stop a faulty service and keep the season moving
+
+A public notice issued without approval, a disclosure to the wrong recipient or a fixture confirmed despite a mandatory access or safety condition triggers an immediate pause in the agent’s action permissions. The competition director assumes control of the calendar, retrieves the last confirmed version and appoints a person to contact everyone who received a misleading notice. The safeguarding or privacy lead takes any referral within their remit. Preserve the relevant records, record what each club actually received, and allow corrections through the ordinary challenge route. Resumption requires a successful repeat of the failed case and its neighbouring cases, signed by an officer independent of the supplier.
+
+Other departments can grow from the same discipline. A grant officer can use an agent to match purchase orders to permitted expenditure while keeping payment release with authorised signatories. An athlete liaison officer can commission a translation and ask the recipient to confirm that the deadline and appeal route are intelligible. The opportunity for sport is especially large where scarce staff time limits who gets an answer. Success is visible when an administrator can point to the family reached before it sets off, the restricted grant kept available for its intended athletes or the volunteer who can hand over the job without surrendering every evening to it.
+
+## What each department can entrust to an agent
+
+| Department | Delegated work | Accountable officer | Test and handover |
+| --- | --- | --- | --- |
+| Fixtures and facilities | Prepare alternative venues and mark a time-limited internal hold. | Competition director | Verify access, officials and both clubs’ responses. Release the hold automatically if any required confirmation is missing. |
+| Grant finance | Match an invoice and purchase order to the dated grant condition and list exceptions. | Finance director | Reconcile the control total and trace the restriction to the signed agreement. Authorised signatories release payment. |
+| Athlete services | Prepare a translated itinerary and flag unanswered access requests. | Athlete liaison officer | Check dates and key terms with a speaker of the language. Offer a direct correction channel before travel. |
+| Commercial rights | Compare the rights sold with the delivery record and draft a remedy for a missed appearance. | Commercial director | Reconcile the promise to the signed contract. The rights-holder and sponsor approve any variation. |
+| Safeguarding intake | Route a received report to the restricted queue and confirm authorised receipt. | Designated safeguarding lead | Test an unavailable or conflicted duty officer. The designated lead handles urgency, referral and contact with the reporting person. |
+| Selection and appeals | Index the policy, applicant’s documents and panel directions by date. | Appeal panel chair | Check completeness with the parties. The appointed panel rules on admissibility, hears submissions and issues reasons. |
+
+## Sources
+
+- [International Olympic Committee, Olympic AI Agenda (April 2024), pp 8–16](https://stillmed.olympics.com/media/Documents/International-Olympic-Committee/AI/Olympic-AI-Agenda.pdf)
+- [International Olympic Committee, ‘World Mental Health Day: How the IOC ran the largest online abuse prevention programme ever conducted in sport at Paris 2024’ (October 2024)](https://www.olympics.com/ioc/news/world-mental-health-day-how-the-ioc-ran-the-largest-online-abuse-prevention-programme-ever-conducted-in-sport-at-paris-2024)
+- [International Olympic Committee, Trustworthy AI Framework for the Olympic Movement (28 September 2026), pp 9–19](https://stillmed.olympics.com/media/Documents/International-Olympic-Committee/AI/IOC-Trustworthy-AI-Framework-for-the-Olympic-Movement.pdf)
+- [Elham Tabassi, Artificial Intelligence Risk Management Framework (AI RMF 1.0), NIST AI 100-1 (National Institute of Standards and Technology, January 2023), pp 20–31](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf)
+
+[Run the laboratory](../lab/README.md) · [Find a real case](../cases/README.md)

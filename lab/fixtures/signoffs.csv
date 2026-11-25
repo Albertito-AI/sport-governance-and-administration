@@ -1,0 +1,10 @@
+ref,plan,role,status
+G01,A,medical,signed
+G02,A,technical,signed
+G03,A,access,signed
+G04,B,medical,signed
+G05,B,technical,signed
+G06,B,access,signed
+G07,C,medical,signed
+G08,C,technical,withheld
+G09,C,access,signed

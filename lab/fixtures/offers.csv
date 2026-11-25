@@ -1,0 +1,7 @@
+ref,plan,scenario,surcharge_gbp,usable_hours,accessible_seats
+O01,A,on_time,0,8,8
+O02,A,late,350,5,4
+O03,B,on_time,0,8,10
+O04,B,late,700,7,8
+O05,C,on_time,0,8,10
+O06,C,late,250,7,10

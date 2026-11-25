@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Please cite the book when using the teaching companion."
+title: "Sport Governance and Administration"
+type: dataset
+authors:
+  - family-names: "Tan"
+    given-names: "Sin Hon Albert"
+    orcid: "https://orcid.org/0009-0001-8996-7933"
+url: "https://github.com/Albertito-AI/sport-governance-and-administration"
+date-released: "2026-11-25"
+preferred-citation:
+  type: book
+  title: "Sport Governance and Administration"
+  authors:
+    - family-names: "Tan"
+      given-names: "Sin Hon Albert"
+      orcid: "https://orcid.org/0009-0001-8996-7933"
+  doi: "10.5281/zenodo.24519213"
+  year: 2026
+  url: "https://doi.org/10.5281/zenodo.24519213"
