@@ -17,6 +17,12 @@ A federation can approve an event while the clinician withholds clearance, the s
 | [Facilitator notes](teaching/facilitator-notes.md) | Review admissible alternatives, consequences and assessment criteria after participants have submitted a decision. |
 | [Companion research and teaching projects](practice/related-projects.md) | Teach the exercises with Atlas Agent School, Atlas Open Mathematics and ten related projects. |
 
+## Use the book with a group
+
+Start with the [30-minute sport participation grant exercise](https://alberttansinhon.com/explore/facilitator-guide/#sport). The group tests a funding claim, records the evidence it would need and revisits the decision when a fact changes. Share a source or a classroom finding through the [community field-note form](https://github.com/Albertito-AI/Albertito-AI/issues/new?template=community-field-note.yml), or explore related work in the [Sport Governance, Administration and Development community](https://zenodo.org/communities/sport-governance-development/).
+
+Universities, federations and clubs can [enquire about a paid workshop with Albert Tan Sin Hon](https://alberttansinhon.com/#contact). Include the audience and the decision you want participants to practise.
+
 The current book has 196 pages including its illustrated covers. Version 1.1 corrects the PDF footnote sequence, completes three citations and updates the affected page references. The [all-versions DOI](https://doi.org/10.5281/zenodo.24519212) always opens the current release.
 
 ## Cite the book
