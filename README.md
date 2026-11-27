@@ -27,7 +27,9 @@ The current book has 196 pages including its illustrated covers. Version 1.1 cor
 
 ## Cite the book
 
-Albert Tan, *Sport Governance and Administration* (Tan Sin Hon Albert, corrected digital edition 1.1, 2026). https://doi.org/10.5281/zenodo.24531222
+Albert Tan Sin Hon, *Sport Governance and Administration* (Tan Sin Hon Albert, corrected digital edition 1.1, 2026). https://doi.org/10.5281/zenodo.24531222
+
+Download the citation for this edition in [BibTeX](https://alberttansinhon.com/writings/sport-governance-and-administration/citation.bib), [RIS](https://alberttansinhon.com/writings/sport-governance-and-administration/citation.ris) or [CSL JSON](https://alberttansinhon.com/writings/sport-governance-and-administration/citation.csl.json).
 
 ## Rights
 
